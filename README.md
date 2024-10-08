@@ -148,7 +148,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 | Name               | Role                | Email                        | GitHub Username     | LinkedIn Profile                             |
 |--------------------|---------------------|------------------------------|---------------------|----------------------------------------------|
-| Ayush Kumar Prasad  | Project Lead         | aayushprasad1007@gamil.com      | Aayushkrprasad   | https://www.linkedin.com/in/aayush-kumar-prasad-5108982b4/ |
+| Ayush Kumar Prasad  | Project Lead         | aayushprasad1007@gmail.com      | Aayushkrprasad   | https://www.linkedin.com/in/aayush-kumar-prasad-5108982b4/ |
 | Sneha Sharma        | Project Lead         | snehasnehasharma0918@gmail.com    | SnehaSharma041       |www.linkedin.com/in/sneha-sharma-90012b296 |
 | Pragyan Kalita      | Project Lead        | pragyankalita137004@gmail.com     | Pragyan004      | http://www.linkedin.com/in/pragyan-kalita-010943293 |
 
