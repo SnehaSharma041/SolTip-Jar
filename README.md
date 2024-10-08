@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # SolTip-Jar
 ![SolTip Jar](https://github.com/user-attachments/assets/91618182-bbf6-46a3-aa8c-eaabcacb3abb)
 
@@ -95,16 +95,9 @@ As the **Solana Tip Jar** platform grows, there are several key areas where we s
 
 Through these advancements, **Solana Tip Jar** aims to become the go-to platform for decentralized tipping and donation, offering a robust, secure, and engaging experience for users around the world.
 
-## Contact Details
-
-| Name               | Role                | Email                        | GitHub Username     | LinkedIn Profile                             |
-|--------------------|---------------------|------------------------------|---------------------|----------------------------------------------|
-| Ayush Kumar Prasad  | Project Lead         | aayushprasad1007@gamil.com      | Aayushkrprasad   | https://www.linkedin.com/in/aayush-kumar-prasad-5108982b4/ |
-| Sneha Sharma        | Project Lead         | snehasnehasharma0918@gmail.com    | SnehaSharma041       |www.linkedin.com/in/sneha-sharma-90012b296 |
-| Pragyan Kalita      | Project Lead        | pragyankalita137004@gmail.com     | Pragyan004      | http://www.linkedin.com/in/pragyan-kalita-010943293 |
-=======
 # Getting Started with Create React App
 
+```bash
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -143,5 +136,19 @@ If you aren't satisfied with the build tool and configuration choices, you can `
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+```
+## Useful Links
 
+- **Twitter Account:** [Solana Tip Jar on Twitter](https://x.com/solanatip_jar/status/1843583027974422889)
+- **Website Link:** [Solana Tip Jar Website](https://solana-tip-jar-5fkn18g.gamma.site/)
+
+
+## Contact Details
+
+
+| Name               | Role                | Email                        | GitHub Username     | LinkedIn Profile                             |
+|--------------------|---------------------|------------------------------|---------------------|----------------------------------------------|
+| Ayush Kumar Prasad  | Project Lead         | aayushprasad1007@gamil.com      | Aayushkrprasad   | https://www.linkedin.com/in/aayush-kumar-prasad-5108982b4/ |
+| Sneha Sharma        | Project Lead         | snehasnehasharma0918@gmail.com    | SnehaSharma041       |www.linkedin.com/in/sneha-sharma-90012b296 |
+| Pragyan Kalita      | Project Lead        | pragyankalita137004@gmail.com     | Pragyan004      | http://www.linkedin.com/in/pragyan-kalita-010943293 |
 
